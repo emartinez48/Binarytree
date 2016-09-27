@@ -1,0 +1,7 @@
+struct node
+{
+  int key;
+  char a[]="              ";
+  struct node *left;
+  struct node *right;
+}
